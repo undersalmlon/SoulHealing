@@ -16,7 +16,7 @@ function playSound(sound) {
 }
 
 fall = new Audio("Beatles.mp3");
-lighthouse = new Audio('https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/poem_lighthouse_soundscape.mp3');
+lighthouse = new Audio('Peach.mp3');
 hope = new Audio('Fly My Wings.mp3');
 moon = new Audio('Luv Letter.mp3');
 sing = new Audio('Hero.mp3');
