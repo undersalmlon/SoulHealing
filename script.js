@@ -17,7 +17,7 @@ function playSound(sound) {
 
 fall = new Audio("https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/poem_fall_soundscape.mp3");
 lighthouse = new Audio('https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/poem_lighthouse_soundscape.mp3');
-hope = new Audio('https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/poem_hope_soundscape.mp3');
+hope = new Audio('https://drive.google.com/file/d/1gFj8dyD3Ual94ZRqqry335_aDHHf5wnz/view?usp=drivesdk');
 moon = new Audio('https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/poem_moon_soundscape.mp3');
 sing = new Audio('https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/poem_sing_soundscape.mp3');
 space = new Audio('https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/poem_space_soundscape.mp3');
