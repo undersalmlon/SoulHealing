@@ -15,12 +15,12 @@ function playSound(sound) {
     }
 }
 
-fall = new Audio("https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/poem_fall_soundscape.mp3");
+fall = new Audio("Beatles.mp3");
 lighthouse = new Audio('https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/poem_lighthouse_soundscape.mp3');
-hope = new Audio('Hero.mp3');
-moon = new Audio('https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/poem_moon_soundscape.mp3');
-sing = new Audio('https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/poem_sing_soundscape.mp3');
-space = new Audio('https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/poem_space_soundscape.mp3');
+hope = new Audio('Fly My Wings.mp3');
+moon = new Audio('Luv Letter.mp3');
+sing = new Audio('Hero.mp3');
+space = new Audio('Perfect Blue.mp3');
 
 soundscape = new Audio();
 
