@@ -15,7 +15,7 @@ function playSound(sound) {
     }
 }
 
-fall = new Audio("1.mp3");
+fall = new Audio('1.mp3');
 lighthouse = new Audio('2.mp3');
 hope = new Audio('3.mp3');
 moon = new Audio('4.mp3');
