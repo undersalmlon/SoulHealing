@@ -15,12 +15,12 @@ function playSound(sound) {
     }
 }
 
-fall = new Audio("Beatles.mp3");
-lighthouse = new Audio('Peach.mp3');
-hope = new Audio('Fly My Wings.mp3');
-moon = new Audio('Luv Letter.mp3');
-sing = new Audio('Hero.mp3');
-space = new Audio('Perfect Blue.mp3');
+fall = new Audio("1.mp3");
+lighthouse = new Audio('2.mp3');
+hope = new Audio('3.mp3');
+moon = new Audio('4.mp3');
+sing = new Audio('5.mp3');
+space = new Audio('6.mp3');
 
 soundscape = new Audio();
 
